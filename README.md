@@ -11,9 +11,7 @@ I built the `Dockerfile.use-installer` container then copied the definitions ove
 
 The conda environment.yml is from https://github.com/SymbiFlow/symbiflow-examples, modified for a newer vtr.
 
-## xc7 (Not working.)
+## xc7
 Files obtained from download link in symbiflow-examples' documentation.
 
 The file has been repackaged to include an `install/` directory to match eos-s3 and the environment.yml from the same commit. 
-
-I'm not terribly focused on this one at the moment given the proprietary requirements.
